@@ -1,0 +1,88 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ParkingApplication.Tests/1.0.0": {
+        "dependencies": {
+          "NUnit": "4.0.1",
+          "ParkingApp.BLL": "1.0.0",
+          "ParkingApp.Models": "1.0.0"
+        },
+        "runtime": {
+          "ParkingApplication.Tests.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "NUnit/4.0.1": {
+        "runtime": {
+          "lib/net6.0/nunit.framework.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          }
+        }
+      },
+      "ParkingApp.BLL/1.0.0": {
+        "dependencies": {
+          "ParkingApp.Models": "1.0.0"
+        },
+        "runtime": {
+          "ParkingApp.BLL.dll": {}
+        }
+      },
+      "ParkingApp.Models/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "ParkingApp.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkingApplication.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "NUnit/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jNTHZ01hJsDNPDSBycoHpavFZUBf9vRVQLCyuo78LRrrFj6Ol/CeqK+NIeTk5d8Eycjk59KseWb7X5Ge6z7CgQ==",
+      "path": "nunit/4.0.1",
+      "hashPath": "nunit.4.0.1.nupkg.sha512"
+    },
+    "ParkingApp.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParkingApp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

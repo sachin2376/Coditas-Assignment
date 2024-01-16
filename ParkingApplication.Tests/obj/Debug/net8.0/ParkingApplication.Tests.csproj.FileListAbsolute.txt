@@ -1,0 +1,17 @@
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\bin\Debug\net8.0\ParkingApplication.Tests.deps.json
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\bin\Debug\net8.0\ParkingApplication.Tests.dll
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\bin\Debug\net8.0\ParkingApplication.Tests.pdb
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\bin\Debug\net8.0\ParkingApp.BLL.dll
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\bin\Debug\net8.0\ParkingApp.Models.dll
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\bin\Debug\net8.0\ParkingApp.BLL.pdb
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\bin\Debug\net8.0\ParkingApp.Models.pdb
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\ParkingApplication.Tests.csproj.AssemblyReference.cache
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\ParkingApplication.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\ParkingApplication.Tests.AssemblyInfoInputs.cache
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\ParkingApplication.Tests.AssemblyInfo.cs
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\ParkingApplication.Tests.csproj.CoreCompileInputs.cache
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\ParkingApplication.Tests.csproj.CopyComplete
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\ParkingApplication.Tests.dll
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\refint\ParkingApplication.Tests.dll
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\ParkingApplication.Tests.pdb
+D:\Repositories\NEW\Coditas-Assignment\ParkingApplication.Tests\obj\Debug\net8.0\ref\ParkingApplication.Tests.dll

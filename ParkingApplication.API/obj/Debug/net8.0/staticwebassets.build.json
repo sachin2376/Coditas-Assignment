@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B2NmhFrCT7JOE4bqeTByMbdBGzmW2MwyeqgneP562So=",
+  "Source": "ParkingApp.API",
+  "BasePath": "_content/ParkingApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
